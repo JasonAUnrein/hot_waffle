@@ -1,0 +1,13 @@
+{
+    "chromedriver": "drivers\\chromedriver_win32\\chromedriver.exe",
+    "edgedriver": "drivers\\MicrosoftWebDriver.exe",
+    "firefoxdriver": "drivers\\geckodriver-v0.11.1-win64\\geckodriver.exe",
+    "iedriver": "drivers\\IEDriverServer_x64_2.53.1\\IEDriverServer.exe",
+    "setting": {
+        "key": "value",
+        "key2": [
+            "value1",
+            "value2"
+        ]
+    }
+}
